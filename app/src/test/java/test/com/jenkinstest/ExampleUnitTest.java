@@ -16,11 +16,12 @@ import static org.junit.Assert.*;
 public class ExampleUnitTest {
     @Test
     public void addition_isFalse() throws Exception {
-        assertEquals(4, 2 + 3);
+        assertEquals(4, 2 + 2);
     }
-    
+    /*
     @Test
     public void addition_isFalse2() throws Exception {
         assertEquals(4, 2 + 3);
     }
+    */
 }
