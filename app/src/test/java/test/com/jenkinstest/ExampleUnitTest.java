@@ -14,16 +14,17 @@ import static org.junit.Assert.*;
  * /usr/local/opt/android-sdk
  */
 public class ExampleUnitTest {
+    /*
     @Test
 
     public void addition_isCorrect() throws Exception {
         assertEquals(4, 2 + 2);
     }
-    /*
+    */
     //Failing tests
     @Test
     public void addition_isFalse() throws Exception {
         assertEquals(4, 2 + 3);
     }
-    */
+    
 }
