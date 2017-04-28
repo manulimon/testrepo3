@@ -21,7 +21,7 @@ public class ExampleUnitTest {
     /*
     //Failing test
     @Test
-    public void addition_isFalse2() throws Exception {
+    public void addition_isFalse() throws Exception {
         assertEquals(4, 2 + 3);
     }
     *
